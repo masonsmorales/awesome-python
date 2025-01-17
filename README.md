@@ -48,6 +48,7 @@ Awesome Python Tools and Resources
 * https://pypi.org/project/PyGithub/
 * https://pypi.org/project/pdoc3/
 * https://pypi.org/project/pdoc/
+* https://pypi.org/project/pymarkdownlnt/
 
 #### Security
 * https://pypi.org/project/pysast/
